@@ -2,6 +2,7 @@
 
 Easy to use password strength validator.
 
+![npm (scoped)](https://img.shields.io/npm/v/@stefanoruth/password-strength)
 [![Build](https://github.com/stefanoruth/password-strength/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/stefanoruth/password-strength/actions/workflows/build.yml)
 
 ## Installation
