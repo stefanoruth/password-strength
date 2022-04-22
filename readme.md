@@ -2,6 +2,8 @@
 
 Easy to use password strength validator.
 
+[![Build](https://github.com/stefanoruth/password-strength/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/stefanoruth/password-strength/actions/workflows/build.yml)
+
 ## Installation
 
 ```
